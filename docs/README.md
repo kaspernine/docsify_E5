@@ -14,8 +14,6 @@
     * [Routing du nouveau composant](/create_component/routing_config.md)
     * [Ajout du controlleur](/create_component/controller_config.md)
 
-* [Nouveau Champ depuis la bdd](/bdd_modif_implement/ "Création et implémentation d'un nouveau champ depuis la base de données")
-
 * [Commandes CLI](/commandes_cli/)
     * [Commandes npm](commandes_cli/npm_cli.md "Commandes npm")
     * [Commandes SQL](commandes_cli/sql_cli.md "Commandes sql")
